@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jindeveloper/renovate_demo_project#readme",
   "dependencies": {
     "@lion/combobox": "^0.1.0",
-    "ansi-colors": "^3.2.2",
+    "ansi-colors": "^4.0.0",
     "is-date-object": "^1.0.0",
     "is-typed-array": "^1.0.1",
     "renovate": "^23.44.3",
