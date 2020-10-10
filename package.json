@@ -1,0 +1,29 @@
+{
+  "name": "renovate_demo_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jindeveloper/renovate_demo_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jindeveloper/renovate_demo_project/issues"
+  },
+  "homepage": "https://github.com/jindeveloper/renovate_demo_project#readme",
+  "dependencies": {
+    "@lion/combobox": "^0.1.0",
+    "ansi-colors": "^3.2.2",
+    "is-date-object": "^1.0.0",
+    "is-typed-array": "^1.0.1",
+    "renovate": "^23.44.3",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
