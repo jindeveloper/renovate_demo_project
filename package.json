@@ -23,7 +23,7 @@
     "is-date-object": "^1.0.0",
     "is-typed-array": "^1.0.1",
     "renovate": "^23.44.3",
-    "webpack": "^4.44.2",
+    "webpack": "^5.0.0",
     "webpack-cli": "^3.3.12"
   }
 }
