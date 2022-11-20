@@ -22,7 +22,7 @@
     "ansi-colors": "^3.2.2",
     "is-date-object": "^1.0.0",
     "is-typed-array": "^1.0.1",
-    "renovate": "^23.44.3",
+    "renovate": "^34.0.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12"
   }
